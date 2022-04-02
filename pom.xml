@@ -155,7 +155,7 @@
     <licenses>
         <license>
             <name>MIT License</name>
-            <url>https://github.com/xxx/xxx/xxxxxx/master/LICENSE</url>
+            <url>https://github.com/lizeze/spring-boot-starter-parent</url>
             <distribution>repo,manual</distribution>
         </license>
     </licenses>
@@ -167,9 +167,9 @@
         </developer>
     </developers>
     <scm>
-        <connection>scm:git:https://github.com/xxx/xxxx.git</connection>
-        <developerConnection>scm:git:https://github.com/xxxx/xxxx.git</developerConnection>
-        <url>https://github.com/xxxx/xxxxx</url>
+        <connection>scm:git:https://github.com/lizeze/spring-boot-starter-parent.git</connection>
+        <developerConnection>scm:git:https://github.com/lizeze/spring-boot-starter-parent.git</developerConnection>
+        <url>https://github.com/lizeze/spring-boot-starter-parent</url>
         <tag>0.0.1</tag>
     </scm>
 
