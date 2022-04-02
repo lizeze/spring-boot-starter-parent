@@ -176,6 +176,7 @@
         <url>https://github.com/lizeze/spring-boot-starter-parent</url>
         <tag>0.0.1</tag>
     </scm>
+     <repositories>
     <repository>
         <id>spring</id>
         <url>https://maven.aliyun.com/repository/spring</url>
@@ -186,5 +187,5 @@
             <enabled>true</enabled>
         </snapshots>
     </repository>
-
+     </repositories>
 </project>
