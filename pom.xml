@@ -30,7 +30,11 @@
             <artifactId>sa-token-spring-boot-starter</artifactId>
             <version>1.28.0</version>
         </dependency>
-
+        <dependency>
+            <groupId>cn.dev33</groupId>
+            <artifactId>sa-token-dao-redis</artifactId>
+            <version>1.28.0</version>
+        </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-data-redis</artifactId>
@@ -172,5 +176,15 @@
         <url>https://github.com/lizeze/spring-boot-starter-parent</url>
         <tag>0.0.1</tag>
     </scm>
+    <repository>
+        <id>spring</id>
+        <url>https://maven.aliyun.com/repository/spring</url>
+        <releases>
+            <enabled>true</enabled>
+        </releases>
+        <snapshots>
+            <enabled>true</enabled>
+        </snapshots>
+    </repository>
 
 </project>
